@@ -1,0 +1,13 @@
+name: BetPlugin
+version: '${project.version}'
+main: com.nbucciarelli.betplugin.BetPlugin
+api-version: 1.19
+authors: [ NazarenoBucciarelli ]
+description: Bet of materials plugin. The command /bet will either give you the double amount of the object that you have in the main hand or take everything away. The percentage of win is 45 %, so be careful with your belongings.
+website: n-bucciarelli.web.app
+commands:
+  bet:
+    description: You bet the item that you have in your hand. There is 45% probability to win the double amount of the item, or lose it all.
+    usage: /bet
+    aliases: apostar
+
