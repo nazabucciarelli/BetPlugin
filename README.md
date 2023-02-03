@@ -2,7 +2,7 @@
 
 Hi there, i wanna introduce you my first Minecraft 1.19.3 plugin: BetPlugin. 
 
-Use: /bet
+Use: /bet <br>
 You have 45% of chance of duplicate the amount of the item that you have in your hand, or lose everything away.
 
 ![image](https://user-images.githubusercontent.com/84046180/216493690-f609c297-95d6-4234-a55a-d9a89312aff2.png)
